@@ -14,7 +14,23 @@ This work is licensed under a
 This repository accompanies our **CLPsych 2022** paper which can be cited as follows:
 
 ```
-
+@misc{https://doi.org/10.48550/arxiv.2205.13884,
+  doi = {10.48550/ARXIV.2205.13884},
+  
+  url = {https://arxiv.org/abs/2205.13884},
+  
+  author = {Gupta, Shrey* and Agarwal, Anmol* and Gaur, Manas and Roy, Kaushik and Narayanan, Vignesh and Kumaraguru, Ponnurangam and Sheth, Amit},
+  
+  keywords = {Artificial Intelligence (cs.AI), Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {Learning to Automate Follow-up Question Generation using Process Knowledge for Depression Triage on Reddit Posts},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution Share Alike 4.0 International}
+}
 ```
 
 
